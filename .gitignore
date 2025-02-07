@@ -1,0 +1,41 @@
+# Ignore Flutter build and dependency files
+.dart_tool/
+.build/
+pubspec.lock
+**/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Ignore macOS & iOS generated files
+ios/Pods/
+macos/Pods/
+xcuserdata/
+DerivedData/
+*.xcworkspace
+
+# Ignore Android generated files
+android/.gradle/
+android/app/google-services.json
+android/key.properties
+android/.idea/
+*.iml
+*.log
+
+# Ignore IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore Authentication files
+firebase_options.dart
+.env
+
+# Ignore User-Specific Files
+*.DS_Store
+*.log
+*.swp
+*.swo
+*.swn
+*.bak
