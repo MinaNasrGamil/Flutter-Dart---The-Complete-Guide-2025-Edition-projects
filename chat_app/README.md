@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-![Description of Image](assets/images/chatApp1.jpg)
+<img src="assets/images/chatApp1.jpg" alt="Description" hight="300" />
