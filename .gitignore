@@ -39,3 +39,6 @@ firebase_options.dart
 *.swo
 *.swn
 *.bak
+
+# Ignore Firebase iOS configuration file
+ios/Runner/GoogleService-Info.plist
