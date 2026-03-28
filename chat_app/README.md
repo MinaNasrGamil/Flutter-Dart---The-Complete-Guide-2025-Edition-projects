@@ -1,8 +1,8 @@
 # chat_app
 
-A new Flutter project.
+chat_app Flutter project.
 
-## Getting Started
+## Images
 
 <img src="assets/images/chatApp1.jpg" alt="Description" style="width:100px; height:auto;" />
 
